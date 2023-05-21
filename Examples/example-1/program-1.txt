@@ -1,0 +1,21 @@
+Instruction:
+
+LDA 05
+MOV B,A
+LDA 06
+ADD B
+HLT
+
+ORG 005
+444
+555
+
+
+Address 	Opcode
+000		005
+001		750
+002		006
+003		700
+004		7FF
+005		444
+006		555

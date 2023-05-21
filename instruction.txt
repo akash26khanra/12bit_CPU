@@ -1,0 +1,22 @@
+** SETUP UP 
+
+1. First Install Logisim from https://sourceforge.net/projects/circuit/ (latest version is recommended)
+
+2. Download the "Circuit" Folder
+
+3. Open Logisim
+
+4. Click on File -> Open -> Select "CPU.circ"
+
+5. Go to Layout Section , Right click on ROM -> Edit Contents -> Open -> Select "rom_cont" -> close
+
+6. Now, Right click on RAM -> Edit Contents -> Open -> Select "ram_cont" -> close
+   
+
+** UPDATING CONTENT OF RAM
+
+1. You can change contents of RAM by your choice of instruction from "12BIT_CPU_Instruction_set"
+
+2. Update the opcode and save it. (Don't forget to end your program with Halt instruction)
+
+3. Follow step 6 of "SETUP UP" section

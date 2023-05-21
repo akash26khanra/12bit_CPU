@@ -1,0 +1,17 @@
+Instruction:
+
+LDA 04
+IN 1
+OUT 8
+HLT
+
+ORG 004
+888
+
+
+Address 	Opcode
+000		004
+001		F01
+002		F18
+003		7FF
+004		888
